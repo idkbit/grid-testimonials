@@ -121,6 +121,12 @@ img {
   color: var(--white);
 }
 
+/* white cards box-shadow */
+.jeanette,
+.kira {
+  box-shadow: 40px 60px 50px -47px rgba(72, 85, 106, 0.247378);
+}
+
 .jeanette {
   background-color: var(--white);
   color: var(--darkGrayishBlue);
